@@ -1,6 +1,8 @@
 package com.market.myapplication.LinkTest;
 
-
+/**
+ * 使用递归的方法合并两个有序链表，使得从小到大排列
+ */
 public class LinkMerge {
     static class Node{
         Integer value;

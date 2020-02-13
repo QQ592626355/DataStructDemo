@@ -1,8 +1,14 @@
 package com.market.myapplication.LinkTest;
 
 //常见的单链表练习题
-public class LinkTest {
 
+/**
+ * 链表的基本练习题，包括了链表翻转，
+ * 判断链表是否有环，判断环入口，判断两个链表是否相交，
+ * 查找倒数第K个元素，从尾到头打印链表
+ *
+ */
+public class LinkTest {
     //内部类来声明结点
     static class  Node<T>{
         T value;

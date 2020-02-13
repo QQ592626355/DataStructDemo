@@ -1,5 +1,8 @@
 package com.market.myapplication.LinkTest;
 
+/**
+ * 这是个链表的构造类，包含了多种简单的链表操作方法，包括对于链表的增删改查等操作
+ */
 public class MySingleLink {
     //链表的head
     Node mHead;
